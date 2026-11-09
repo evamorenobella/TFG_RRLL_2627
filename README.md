@@ -120,7 +120,7 @@
         <li>Por tanto, entregar también un borrador de metodología (incluyendo este segundo filtrado) y de resultados</li>
         <li>Literatura revisada: como mínimo 10 artículos.</li>
       </ul>
-      </li>
+     </li>
     <li>
       <h3>Entrega 3 (versión casi completa)</h3>
       <p><strong>Fecha de entrega:</strong> 12 de abril</p>
