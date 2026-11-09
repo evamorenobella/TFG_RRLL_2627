@@ -108,27 +108,19 @@
                 bases de datos
               </a>, palabras clave, operadores booleanos), siguiendo la plantilla estándar.
             </li>
-        <li>Realizar la búsqueda de artículos: aplicar los criterios seleccionados y operadores booleanos/palabras clave, obtener los resultados. Tras esto, filtrar artículos en función de si se ajustan o no al objetivo del TFG. Para ello se debe realizar un filtrado de artículos leyendo su título y su resumen. Si se ajusta a nuestro objetivo se quedan, si no se descartan.
+        <li>Realizar la búsqueda de artículos: aplicar los criterios seleccionados y operadores booleanos/palabras clave, obtener los resultados. Tras esto, realizar un primer filtrado de documentos: filtrar artículos en función de si se ajustan o no al objetivo del TFG. Para ello se debe realizar un filtrado de artículos leyendo su título y su resumen. Si se ajusta a nuestro objetivo se quedan, si no se descartan. Entregar una tabla resumen con los artículos seleccionados tras el primer filtro incluyendo autores, título, revista/libro y DOI/referencia del documento.
     </li>
     <li>
-      <h3>Avance 1 (aprox. 30-40% del trabajo)</h3>
-      <p><strong>Fecha de entrega:</strong> 2 de marzo</p>
+      <h3>Entrega 2</h3>
+      <p><strong>Fecha de entrega:</strong> 26 de febrero</p>
       <p><strong>Monográfico:</strong></p>
       <ul>
-        <li>Borrador de introducción y marco teórico (unas 2000–2500 palabras).</li>
-        <li>Breve esquema de los posibles resultados y/o borrador de los mismos.</li>
+        <li>Borrador de introducción completo (unas 2000–2500 palabras).</li>
+        <li>Metodología: Realizar el segundo filtrado de los documentos: leer los documentos seleccionados tras el primer filtrado. En base a su contenido, decidir si se ajustan al objetivo del TFG, si no se descartan y no se incluirían en el apartado de Resultados. Los seleccionados, se describirán brevemente en el apartado de Resultados</li>
+        <li>Por tanto, entregar también un borrador de metodología (incluyendo este segundo filtrado) y de resultados</li>
         <li>Literatura revisada: como mínimo 10 artículos.</li>
       </ul>
-      <p><strong>Portafolio:</strong></p>
-      <ul>
-        <li>Memoria: redactadas al menos 5 competencias con la descripción completa (logros, puntos fuertes/débiles, justificación, etc.).</li>
-      </ul>
-      <p><strong>Portafolio digital:</strong></p>
-      <ul>
-        <li>Site ya estructurado con las 8 competencias.</li>
-        <li>Subidas al menos las evidencias de esas 3–4 competencias.</li>
-      </ul>
-    </li>
+      </li>
     <li>
       <h3>Avance 2 (versión casi completa)</h3>
       <p><strong>Fecha de entrega:</strong> 20 de abril</p>
