@@ -87,10 +87,10 @@
       <p><strong>Fecha de entrega:</strong> 30 de noviembre</p>
       <p><strong>Monográfico:</strong></p>
       <p>
-        Entregar en 2-3 páginas (aprox.): a) tema elegido, b) justificación de por qué lo ha elegido (i.e., breve introducción y contextualización del tema, incluyendo citas de trabajos), c) objetivo general, d) objetivos específicos y e) cinco referencias iniciales que os han servido para la introducción/contextualización (en formato APA).
+        Entregar en 2-3 páginas (aprox.): PARTE 1 JUSTIFICACIÓN: a) tema elegido, b) justificación de por qué lo ha elegido (i.e., breve introducción y contextualización del tema, incluyendo citas de trabajos), c) objetivo general, d) objetivos específicos y e) cinco referencias iniciales que os han servido para la introducción/contextualización (en formato APA). PARTE 2 CRITERIOS DE ELEGIBILIDAD PARA LOS ARTÍCULOS A ANALIZAR: a) criterios de inclusión y exclusión, b) seleccionar las <a href="https://biblioteca.ugr.es/biblioteca-electronica/bases-datos" target="_blank" rel="noopener noreferrer">
+                bases de datos
+              </a> principales, y c) la ecuación de búsqueda utilizando los operadores booleanos).
       </p>
-      <p><strong>Portafolio:</strong></p>
-      <p>
       </li>
     <li>
       <h3>Entrega 1</h3>
