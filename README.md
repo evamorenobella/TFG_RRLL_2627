@@ -77,75 +77,87 @@
         </li>
       </ul>
       <p>
-        El TFG debe ser entregado al tutor al menos 15 días antes del plazo de entrega oficial.
-      </p>
-    <section>
+<p>
+  El TFG debe ser entregado al tutor al menos 15 días antes del plazo de entrega oficial.
+</p>
+
+<section>
   <h2>Cronograma propuesto para la tutorización de TFG</h2>
   <ol>
     <li>
       <h3>Entrega 1a: Propuesta inicial</h3>
       <p><strong>Fecha de entrega:</strong> 9 de diciembre</p>
       <p><strong>Monográfico:</strong></p>
+      <p>Entregar en 2-3 páginas (aprox.):</p>
       <p>
-        Entregar en 2-3 páginas (aprox.):
-        <p>
-          PARTE 1 JUSTIFICACIÓN: a) tema elegido, b) justificación de por qué lo ha elegido (i.e., breve introducción y contextualización del tema, incluyendo citas de trabajos), c) objetivo general, d) objetivos específicos y e) cinco referencias iniciales que os han servido para la introducción/contextualización (en formato APA).
-          <p>
-          PARTE 2 CRITERIOS DE ELEGIBILIDAD PARA LOS ARTÍCULOS A ANALIZAR: a) criterios de inclusión y exclusión, b) seleccionar las <a href="https://biblioteca.ugr.es/biblioteca-electronica/bases-datos" target="_blank" rel="noopener noreferrer">
-                bases de datos
-              </a>principales, y c) la ecuación de búsqueda utilizando los operadores booleanos.
+        <strong>PARTE 1 JUSTIFICACIÓN:</strong> a) tema elegido, b) justificación de por qué lo ha elegido (i.e., breve introducción y contextualización del tema, incluyendo citas de trabajos), c) objetivo general, d) objetivos específicos y e) cinco referencias iniciales que os han servido para la introducción/contextualización (en formato APA).
       </p>
-      </li>
+      <p>
+        <strong>PARTE 2 CRITERIOS DE ELEGIBILIDAD PARA LOS ARTÍCULOS A ANALIZAR:</strong> a) criterios de inclusión y exclusión, b) seleccionar las 
+        <a href="https://biblioteca.ugr.es/biblioteca-electronica/bases-datos" target="_blank" rel="noopener noreferrer">
+          bases de datos
+        </a> principales, y c) la ecuación de búsqueda utilizando los operadores booleanos.
+      </p>
+    </li>
+
     <li>
       <h3>Entrega 1b</h3>
       <p><strong>Fecha de entrega:</strong> 11 de enero</p>
       <p><strong>Monográfico:</strong></p>
       <ul>
-            <li>
-              Entregar borrador de la introducción y objetivos, así como del apartado de metodología
-              (Estrategia de búsqueda bibliográfica,
-              <a href="https://biblioteca.ugr.es/biblioteca-electronica/bases-datos" target="_blank" rel="noopener noreferrer">
-                bases de datos
-              </a>, palabras clave, operadores booleanos), siguiendo la plantilla estándar.
-            </li>
-        <li>Realizar la búsqueda de artículos: aplicar los criterios seleccionados y operadores booleanos/palabras clave, obtener los resultados. Tras esto, realizar un primer filtrado de documentos: filtrar artículos en función de si se ajustan o no al objetivo del TFG. Para ello se debe realizar un filtrado de artículos leyendo su título y su resumen. Si se ajusta a nuestro objetivo se quedan, si no se descartan. Entregar una tabla resumen con los artículos seleccionados tras el primer filtro incluyendo autores, título, revista/libro y DOI/referencia del documento.
-      </p>
-      </li>
+        <li>
+          Entregar borrador de la introducción y objetivos, así como del apartado de metodología
+          (Estrategia de búsqueda bibliográfica,
+          <a href="https://biblioteca.ugr.es/biblioteca-electronica/bases-datos" target="_blank" rel="noopener noreferrer">
+            bases de datos
+          </a>, palabras clave, operadores booleanos), siguiendo la plantilla estándar.
+        </li>
+        <li>
+          Realizar la búsqueda de artículos: aplicar los criterios seleccionados y operadores booleanos/palabras clave, obtener los resultados. Tras esto, realizar un primer filtrado de documentos: filtrar artículos en función de si se ajustan o no al objetivo del TFG. Para ello se debe realizar un filtrado de artículos leyendo su título y su resumen. Si se ajusta a nuestro objetivo se quedan, si no se descartan. Entregar una tabla resumen con los artículos seleccionados tras el primer filtro incluyendo autores, título, revista/libro y DOI/referencia del documento.
+        </li>
+      </ul>
+    </li>
+
     <li>
       <h3>Entrega 2</h3>
       <p><strong>Fecha de entrega:</strong> 26 de febrero</p>
       <p><strong>Monográfico:</strong></p>
       <ul>
         <li>Borrador de introducción completo (unas 2000–2500 palabras).</li>
-        <li>Metodología: Realizar el segundo filtrado de los documentos: leer los documentos seleccionados tras el primer filtrado. En base a su contenido, decidir si se ajustan al objetivo del TFG, si no se descartan y no se incluirían en el apartado de Resultados. Los seleccionados, se describirán brevemente en el apartado de Resultados</li>
-        <li>Por tanto, entregar también un borrador de metodología (incluyendo este segundo filtrado) y de resultados</li>
+        <li>Metodología: Realizar el segundo filtrado de los documentos: leer los documentos seleccionados tras el primer filtrado. En base a su contenido, decidir si se ajustan al objetivo del TFG, si no se descartan y no se incluirían en el apartado de Resultados. Los seleccionados, se describirán brevemente en el apartado de Resultados.</li>
+        <li>Por tanto, entregar también un borrador de metodología (incluyendo este segundo filtrado) y de resultados.</li>
         <li>Literatura revisada: como mínimo 10 artículos.</li>
-      </p>
-      </li>
+      </ul>
+    </li>
+
     <li>
       <h3>Entrega 3 (versión casi completa)</h3>
       <p><strong>Fecha de entrega:</strong> 12 de abril</p>
       <p><strong>Monográfico:</strong></p>
       <ul>
-        <li>Borrador casi completo del TFG(80 %):</li>
-        <li>Introducción y revisión teórica  cerradas.</li>
-        <li>Apartado de “Resultados” de la revisión completo tras correciones.</li>
+        <li>Borrador casi completo del TFG (80 %):</li>
+        <li>Introducción y revisión teórica cerradas.</li>
+        <li>Apartado de “Resultados” de la revisión completo tras correcciones.</li>
         <li>Al menos un borrador de las conclusiones preliminares.</li>
         <li>Referencias completas (utilizar FORMATO APA).</li>
-      </li>
+      </ul>
+    </li>
+
     <li>
       <h3>Versión final para corrección (Entrega a la tutora)</h3>
       <p><strong>Fecha de entrega:</strong> 17 de mayo (c.ordinaria)</p>
       <p><strong>Monográfico:</strong></p>
       <p>Versión completa con formato definitivo.</p>
-  </li>
+    </li>
+
     <li>
       <h3>Defensa</h3>
       <p><strong>Fecha:</strong> Por determinar (finales de mayo, principios de junio).</p>
       <p>Presentación de 10 minutos y debate/preguntas.</p>
-      <p>Envío de las diapositivas o material de presentación a la tutora con 48 de antelación a la defensa.</p>
+      <p>Envío de las diapositivas o material de presentación a la tutora con 48 h de antelación a la defensa.</p>
     </li>
   </ol>
+</section>
 </section>
         <section>
   <h2>Fechas importantes</h2>
