@@ -12,7 +12,7 @@
       <h2>Tipologías de TFG</h2>
       <ul>
         <li>
-          <strong>TFG estándar o monográfico:</strong>
+          <strong>OPCIÓN PRINCIPAL: TFG estándar o monográfico:</strong>
           Es un TFG que va a consistir en una memoria que debe contemplar una revisión de la literatura de algún tema/campo que integra el Grado. En este caso, la revisión debe hacerse de alguno de los siguientes temas: Desigualdad de género y liderazgo en las organizaciones o Deshumanización organizacional.
         </li>
         <li>
@@ -49,8 +49,9 @@
        <section>
       <h2>Criterios de evaluación de los TFG</h2>
       <ul>
-        <li>Memoria y trabajo continuo: <strong>60%</strong></li>
-        <li>Defensa del TFG: <strong>40%</strong></li>
+        <li>Seguimiento de la tutora / Trabajo continuo: <strong>40%</strong></li>
+        <li>Memoria final presentada: <strong>40%</strong></li>
+        <li>Defensa del TFG: <strong>20%</strong></li>
       </ul>
       <p>
         Una vez el TFG esté terminado (en cualquiera de sus modalidades), el tutor/a comunicará al estudiantado la calificación que va a proponer y que se ponderará con el 100% de la calificación final.
