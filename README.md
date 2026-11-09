@@ -311,6 +311,9 @@
       Artículo IT MIS 4
     </a>
   </li>
+  <p><em>Recordad que para acceder a algunos artículos necesitaréis estar conectadas a Internet desde la facultad o con la VPN de la UGR si estáis en casa</em></p>
+  </li>
+</ul>
   <section>
   <h2>Tutorías</h2>
   <p>
@@ -320,7 +323,7 @@
     Puedes consultar la disponibilidad y reservar tu horario a través del siguiente enlace:
   </p>
   <p>
-    👉 <a href="https://calendly.com/evamoreno" target="_blank" rel="noopener noreferrer">
+  <a href="https://calendly.com/evamoreno" target="_blank" rel="noopener noreferrer">
       <strong>Reserva tu tutoría en Calendly</strong>
     </a>
   </p>
@@ -328,6 +331,4 @@
     Si se necesita tutoría presencial escribir a evamoreno@ugr.es
   </p>
 </section>
-    <p><em>Recordad que para acceder a algunos artículos necesitaréis estar conectadas a Internet desde la facultad o con la VPN de la UGR si estáis en casa</em></p>
-  </li>
-</ul>
+    
