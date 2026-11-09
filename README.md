@@ -109,7 +109,8 @@
               </a>, palabras clave, operadores booleanos), siguiendo la plantilla estándar.
             </li>
         <li>Realizar la búsqueda de artículos: aplicar los criterios seleccionados y operadores booleanos/palabras clave, obtener los resultados. Tras esto, realizar un primer filtrado de documentos: filtrar artículos en función de si se ajustan o no al objetivo del TFG. Para ello se debe realizar un filtrado de artículos leyendo su título y su resumen. Si se ajusta a nuestro objetivo se quedan, si no se descartan. Entregar una tabla resumen con los artículos seleccionados tras el primer filtro incluyendo autores, título, revista/libro y DOI/referencia del documento.
-    </li>
+      </p>
+      </li>
     <li>
       <h3>Entrega 2</h3>
       <p><strong>Fecha de entrega:</strong> 26 de febrero</p>
@@ -119,8 +120,8 @@
         <li>Metodología: Realizar el segundo filtrado de los documentos: leer los documentos seleccionados tras el primer filtrado. En base a su contenido, decidir si se ajustan al objetivo del TFG, si no se descartan y no se incluirían en el apartado de Resultados. Los seleccionados, se describirán brevemente en el apartado de Resultados</li>
         <li>Por tanto, entregar también un borrador de metodología (incluyendo este segundo filtrado) y de resultados</li>
         <li>Literatura revisada: como mínimo 10 artículos.</li>
-      </ul>
-     </li>
+      </p>
+      </li>
     <li>
       <h3>Entrega 3 (versión casi completa)</h3>
       <p><strong>Fecha de entrega:</strong> 12 de abril</p>
@@ -137,10 +138,7 @@
       <p><strong>Fecha de entrega:</strong> 17 de mayo (c.ordinaria)</p>
       <p><strong>Monográfico:</strong></p>
       <p>Versión completa con formato definitivo.</p>
-      <p><strong>Portafolio:</strong></p>
-      <p>Versión completa con formato definitivo.</p>
-      <p><strong>Portafolio digital definitivo.</strong></p>
-    </li>
+  </li>
     <li>
       <h3>Defensa</h3>
       <p><strong>Fecha:</strong> Por determinar (finales de mayo, principios de junio).</p>
