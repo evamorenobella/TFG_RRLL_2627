@@ -87,7 +87,7 @@
       <p><strong>Fecha de entrega:</strong> 30 de noviembre</p>
       <p><strong>Monográfico:</strong></p>
       <p>
-        Entregar 2 páginas (aprox.) con: a) tema elegido y b) justificación de por qué lo ha elegido (i.e., breve introducción y contextualización del tema, incluyendo citas de trabajos), c) objetivo general, d) objetivos específicos y e) cinco referencias iniciales que os han servido para la introducción/contextualización (en formato APA).
+        Entregar en 2-3 páginas (aprox.): a) tema elegido, b) justificación de por qué lo ha elegido (i.e., breve introducción y contextualización del tema, incluyendo citas de trabajos), c) objetivo general, d) objetivos específicos y e) cinco referencias iniciales que os han servido para la introducción/contextualización (en formato APA).
       </p>
       <p><strong>Portafolio:</strong></p>
       <p>
