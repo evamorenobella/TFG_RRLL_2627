@@ -246,27 +246,28 @@
   </li>
 </ul>
 
-<h2>Artículos sobre Incapacidad Temporal por Menstruación Secundaria Incapacitante</h2>
+<h2>Artículos sobre Incapacidad Temporal por Menstruación Incapacitante Secundaria</h2>
 <ul>
-  <li>
-    <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2015.01400/full" target="_blank" rel="noopener noreferrer">
-      Artículo sobre género y liderazgo 1
+<li>
+    <a href="https://doi.org/10.1080/03630242.2026.2724879" target="_blank" rel="noopener noreferrer">
+      Artículo IT MIS 1
     </a>
   </li>
   <li>
-    <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/(SICI)1099-1379(199601)17:1%3C33::AID-JOB778%3E3.0.CO;2-F?casa_token=7Y5-HlITAYoAAAAA:SgKy1YOBwyApCm9Af0TBp5a0IVpwRMOx3QTUQqvBQVPVllZwlbslyzslHLLCHrk4G7tvKvSqwRu5FOQ" target="_blank" rel="noopener noreferrer">
-      Artículo sobre género y liderazgo 2
+    <a href="https://doi.org/10.1136/bmjopen-2024-096425" target="_blank" rel="noopener noreferrer">
+      Artículo IT MIS 2
     </a>
   </li>
   <li>
-    <a href="https://psycnet.apa.org/record/2010-26139-001" target="_blank" rel="noopener noreferrer">
-      Artículo sobre género y liderazgo 3 
+    <a href="https://doi.org/10.1080/13691058.2024.2418406" target="_blank" rel="noopener noreferrer">
+      Artículo IT MIS 3
     </a>
   </li>
   <li>
-    <a href="https://spssi.onlinelibrary.wiley.com/doi/abs/10.1111/0022-4537.00233?casa_token=AaS98HimemQAAAAA:S7bcz7wlgfX8iwqXtNfHyy4_9uPQOl1Pce6ROnegQZQQCEqpGVm-3H1ZRUbuPzhTkzzTO0YHZ7vUR2w" target="_blank" rel="noopener noreferrer">
-      Artículo sobre género y liderazgo 4 
+    <a href="https://doi.org/10.1080/07399332.2019.1639709" target="_blank" rel="noopener noreferrer">
+      Artículo IT MIS 4
     </a>
+  </li>
     <p><em>Recordad que para acceder a algunos artículos necesitaréis estar conectadas a Internet desde la facultad o con la VPN de la UGR si estáis en casa</em></p>
   </li>
 </ul>
