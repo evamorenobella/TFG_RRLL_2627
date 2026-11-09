@@ -42,7 +42,7 @@
           </a>
       <p>
   Asimismo, me debéis entregar la 
-  <a href="[https://laborales.ugr.es/docencia/trabajo-fin-grado/entrega]" target="_blank" rel="noopener noreferrer">
+  <a href="https://laborales.ugr.es/docencia/trabajo-fin-grado/entrega" target="_blank" rel="noopener noreferrer">
     declaración de uso de IA
   </a>
    junto al TFG.
