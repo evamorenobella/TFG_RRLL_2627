@@ -233,7 +233,38 @@
     <li>Materiales disponibles en el curso de la asignatura TFG en PRADO.</li>
   </ul>
 </section>
-
+<section>
+  <h2>Materiales de consulta para revisiones</h2>
+  <ul>
+    <li>
+      <a href="https://biblioguias.unav.edu/revisionessistematicas/guias_oficiales" target="_blank" rel="noopener noreferrer">
+        Guías oficiales para revisiones sistemáticas (Universidad de Navarra)
+      </a>
+    </li>
+    <li>
+      <a href="https://digibug.ugr.es/bitstream/handle/10481/102956/curso%20doctorado_REVISIONESSISTEMA%cc%81TICAS_Definitivo.pdf?sequence=1&isAllowed=y" target="_blank" rel="noopener noreferrer">
+        Curso de doctorado: Revisiones Sistemáticas (Digibug UGR)
+      </a>
+    </li>
+    <li>
+      <a href="https://yosigo.ugr.es/courses/revisiones-sistematicas-para-doctorandos-i/" target="_blank" rel="noopener noreferrer">
+        Curso YoSigoUGR: Revisiones sistemáticas para doctorandos I
+      </a>
+    </li>
+    <li>
+      <strong>[IMPORTANTE]</strong> 
+      <a href="https://digibug.ugr.es/bitstream/handle/10481/38792/Tema%202%20-%20Los%20catalogos%20en%20la%20Biblioteca%20Universitaria.pdf?sequence=28" target="_blank" rel="noopener noreferrer">
+        Tema 2: Los catálogos en la Biblioteca Universitaria (Uso de operadores booleanos)
+      </a>
+    </li>
+    <li>
+      <strong>[DECLARACIÓN PRISMA 2020]</strong> 
+      <a href="https://www.sciencedirect.com/science/article/pii/S0300893221002748" target="_blank" rel="noopener noreferrer">
+        Declaración PRISMA 2020: una guía actualizada para la publicación de revisiones sistemáticas
+      </a>
+    </li>
+  </ul>
+</section>
 <h2>Artículos sobre Deshumanización Organizacional</h2>
 <ul>
   <li>
