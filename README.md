@@ -13,7 +13,7 @@
       <ul>
         <li>
           <strong>OPCIÓN PRINCIPAL: TFG estándar o monográfico:</strong>
-          Es un TFG que va a consistir en una memoria que debe contemplar una revisión de la literatura de algún tema/campo que integra el Grado. En este caso, la revisión debe hacerse de alguno de los siguientes temas: Desigualdad de género y liderazgo en las organizaciones o Deshumanización organizacional.
+          Es un TFG que va a consistir en una memoria que debe contemplar una revisión de la literatura de algún tema/campo que integra el Grado. En este caso, la revisión debe hacerse de alguno de los siguientes temas: Incapacidad Temporal por Menstruación Incapacitante Secundaria o Deshumanización Organizacional.
         </li>
         <li>
           <strong>TFG asociado a un portafolio de competencias:</strong>
