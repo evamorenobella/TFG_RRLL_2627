@@ -84,12 +84,16 @@
   <ol>
     <li>
       <h3>Propuesta inicial</h3>
-      <p><strong>Fecha de entrega:</strong> 30 de noviembre</p>
+      <p><strong>Fecha de entrega:</strong> 9 de diciembre</p>
       <p><strong>Monográfico:</strong></p>
       <p>
-        Entregar en 2-3 páginas (aprox.): PARTE 1 JUSTIFICACIÓN: a) tema elegido, b) justificación de por qué lo ha elegido (i.e., breve introducción y contextualización del tema, incluyendo citas de trabajos), c) objetivo general, d) objetivos específicos y e) cinco referencias iniciales que os han servido para la introducción/contextualización (en formato APA). PARTE 2 CRITERIOS DE ELEGIBILIDAD PARA LOS ARTÍCULOS A ANALIZAR: a) criterios de inclusión y exclusión, b) seleccionar las <a href="https://biblioteca.ugr.es/biblioteca-electronica/bases-datos" target="_blank" rel="noopener noreferrer">
+        Entregar en 2-3 páginas (aprox.):
+        <p>
+          PARTE 1 JUSTIFICACIÓN: a) tema elegido, b) justificación de por qué lo ha elegido (i.e., breve introducción y contextualización del tema, incluyendo citas de trabajos), c) objetivo general, d) objetivos específicos y e) cinco referencias iniciales que os han servido para la introducción/contextualización (en formato APA).
+          <p>
+          PARTE 2 CRITERIOS DE ELEGIBILIDAD PARA LOS ARTÍCULOS A ANALIZAR: a) criterios de inclusión y exclusión, b) seleccionar las <a href="https://biblioteca.ugr.es/biblioteca-electronica/bases-datos" target="_blank" rel="noopener noreferrer">
                 bases de datos
-              </a> principales, y c) la ecuación de búsqueda utilizando los operadores booleanos).
+              </a>principales, y c) la ecuación de búsqueda utilizando los operadores booleanos).
       </p>
       </li>
     <li>
