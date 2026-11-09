@@ -67,12 +67,12 @@
       <ul>
         <li>
           <strong>Convocatoria ordinaria.</strong>
-          La fecha límite para el envío de calificación por parte del tutor y documentación del TFG por parte del estudiante es el 7 de junio de 2026. La defensa ante el Tribunal de MH o reclamaciones es el 24 de junio de 2026. Toda la información necesaria para la defensa del TFG se comunicará a través de Prado con suficiente antelación. Los alumnos que deseen un tribunal de reclamaciones deben solicitarlo por correo electrónico dentro de los tres días siguientes a la fecha límite
+          La fecha límite para el envío de calificación por parte del tutor y documentación del TFG por parte del estudiante es el 4 de junio de 2027. La defensa ante el Tribunal de MH o reclamaciones es el 24 de junio de 2027. Toda la información necesaria para la defensa del TFG se comunicará a través de Prado con suficiente antelación. Los alumnos que deseen un tribunal de reclamaciones deben solicitarlo por correo electrónico dentro de los tres días siguientes a la fecha límite (mduranb@ugr.es).
           (<a href="mailto:mdhuete@ugr.es">mdhuete@ugr.es</a>).
         </li>
         <li>
           <strong>Convocatoria extraordinaria.</strong>
-          La fecha límite para el envío de calificación por parte del tutor y documentación del TFG por parte del estudiante es el 1 de julio de 2026. La defensa ante el Tribunal de MH o reclamaciones es el 19 de julio de 2026. Toda la información necesaria para la defensa del TFG se comunicará a través de Prado con suficiente antelación. Los alumnos que deseen un tribunal de reclamaciones deben solicitarlo por correo electrónico dentro de los tres días siguientes a la fecha límite
+          La fecha límite para el envío de calificación por parte del tutor y documentación del TFG por parte del estudiante es el 4 de julio de 2027. La defensa ante el Tribunal de MH o reclamaciones es el 24 de julio de 2027. Toda la información necesaria para la defensa del TFG se comunicará a través de Prado con suficiente antelación. Los alumnos que deseen un tribunal de reclamaciones deben solicitarlo por correo electrónico dentro de los tres días siguientes a la fecha límite (mduranb@ugr.es).
           (<a href="mailto:mdhuete@ugr.es">mdhuete@ugr.es</a>).
         </li>
       </ul>
@@ -205,13 +205,13 @@
         <td>-</td>
       </tr>
       <tr>
-        <td>23 de mayo</td>
+        <td>17 de mayo</td>
         <td>Versión final para corrección (Entrega a la tutora)</td>
         <td>Ordinaria</td>
       </tr>
       <tr>
-        <td>7 de junio de 2026</td>
-        <td>Entrega calificación del tutor y documentación del TFG</td>
+        <td>4 de junio de 2026</td>
+        <td>Entrega calificación del tutor y Entrega de documentación del TFG por parte del alumnado</td>
         <td>Ordinaria</td>
       </tr>
       <tr>
@@ -220,8 +220,8 @@
         <td>Extraordinaria</td>
       </tr>
       <tr>
-        <td>1 de julio de 2026</td>
-        <td>Entrega calificación del tutor y documentación del TFG</td>
+        <td>4 de julio de 2026</td>
+        <td>Entrega calificación del tutor y Entrega de documentación del TFG por parte del alumnado</td>
         <td>Extraordinaria</td>
       </tr>
     </tbody>
