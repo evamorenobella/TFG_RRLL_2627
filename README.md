@@ -80,7 +80,6 @@
 <p>
   El TFG debe ser entregado al tutor al menos 15 días antes del plazo de entrega oficial.
 </p>
-
 <section>
   <h2>Cronograma propuesto para la tutorización de TFG</h2>
   <ol>
@@ -99,7 +98,6 @@
         </a> principales, y c) la ecuación de búsqueda utilizando los operadores booleanos.
       </p>
     </li>
-
     <li>
       <h3>Entrega 1b</h3>
       <p><strong>Fecha de entrega:</strong> 11 de enero</p>
@@ -117,7 +115,6 @@
         </li>
       </ul>
     </li>
-
     <li>
       <h3>Entrega 2</h3>
       <p><strong>Fecha de entrega:</strong> 26 de febrero</p>
@@ -129,7 +126,6 @@
         <li>Literatura revisada: como mínimo 10 artículos.</li>
       </ul>
     </li>
-
     <li>
       <h3>Entrega 3 (versión casi completa)</h3>
       <p><strong>Fecha de entrega:</strong> 12 de abril</p>
@@ -142,14 +138,12 @@
         <li>Referencias completas (utilizar FORMATO APA).</li>
       </ul>
     </li>
-
     <li>
       <h3>Versión final para corrección (Entrega a la tutora)</h3>
       <p><strong>Fecha de entrega:</strong> 17 de mayo (c.ordinaria)</p>
       <p><strong>Monográfico:</strong></p>
       <p>Versión completa con formato definitivo.</p>
     </li>
-
     <li>
       <h3>Defensa</h3>
       <p><strong>Fecha:</strong> Por determinar (finales de mayo, principios de junio).</p>
