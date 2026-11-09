@@ -208,7 +208,7 @@
     </tbody>
   </table>
   <p><em>El TFG debe ser entregado al tutor al menos 15 días antes del plazo de entrega oficial, para asi evaluarlo y realizar la defensa.</em></p>
-  <p><em>Recordad que para llevar un buen seguimiento de vuestro TFG, debéis asistir al menos a 3 tutorías a lo largo del curso</em></p>
+  <p><em>Recordad que para llevar un buen seguimiento de vuestro TFG, debéis asistir al menos a 1 tutoría a lo largo del curso</em></p>
 </section>
 <section>
   <h2>Materiales de Referencia Utilizados</h2>
@@ -242,7 +242,7 @@
   </li>
 </ul>
 
-<h2>Artículos sobre Género y Liderazgo</h2>
+<h2>Artículos sobre Incapacidad Temporal por Menstruación Secundaria Incapacitante</h2>
 <ul>
   <li>
     <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2015.01400/full" target="_blank" rel="noopener noreferrer">
