@@ -89,7 +89,7 @@
       <p><strong>Monográfico:</strong></p>
       <p>Entregar en 2-3 páginas (aprox.):</p>
       <p>
-        <strong>PARTE 1 JUSTIFICACIÓN:</strong> a) tema elegido, b) justificación de por qué lo ha elegido (i.e., breve introducción y contextualización del tema, incluyendo citas de trabajos), c) objetivo general, d) objetivos específicos y e) cinco referencias iniciales que os han servido para la introducción/contextualización (en formato APA).
+        <strong>PARTE 1 JUSTIFICACIÓN:</strong> a) tema elegido, b) justificación de por qué lo ha elegido (i.e., breve introducción y contextualización del tema, incluyendo citas de trabajos), c) objetivo general, d) objetivos específicos y e) cinco referencias iniciales que os han servido para la introducción/contextualización (en <a href="[https://biblioteca.ugr.es/biblioteca-electronica/bases-datos](https://normas-apa.org/referencias/)" target="_blank" rel="noopener noreferrer">formato APA</a>).
       </p>
       <p>
         <strong>PARTE 2 CRITERIOS DE ELEGIBILIDAD PARA LOS ARTÍCULOS A ANALIZAR:</strong> a) criterios de inclusión y exclusión, b) seleccionar las 
