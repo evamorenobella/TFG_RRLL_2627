@@ -83,7 +83,7 @@
   <h2>Cronograma propuesto para la tutorización de TFG</h2>
   <ol>
     <li>
-      <h3>Propuesta inicial</h3>
+      <h3>Entrega 1a: Propuesta inicial</h3>
       <p><strong>Fecha de entrega:</strong> 9 de diciembre</p>
       <p><strong>Monográfico:</strong></p>
       <p>
@@ -97,8 +97,8 @@
       </p>
       </li>
     <li>
-      <h3>Entrega 1</h3>
-      <p><strong>Fecha de entrega:</strong> 26 de enero</p>
+      <h3>Entrega 1b</h3>
+      <p><strong>Fecha de entrega:</strong> 11 de enero</p>
       <p><strong>Monográfico:</strong></p>
       <ul>
             <li>
@@ -122,27 +122,16 @@
       </ul>
       </li>
     <li>
-      <h3>Avance 2 (versión casi completa)</h3>
-      <p><strong>Fecha de entrega:</strong> 20 de abril</p>
+      <h3>Entrega 3 (versión casi completa)</h3>
+      <p><strong>Fecha de entrega:</strong> 12 de abril</p>
       <p><strong>Monográfico:</strong></p>
       <ul>
-        <li>Borrador casi completo (80 %):</li>
-        <li>Introducción y revisión teórica prácticamente cerradas.</li>
-        <li>Apartado de “resultados” de la revisión (organización de hallazgos, tablas/figuras si procede).</li>
-        <li>Al menos un esquema o borrador de las conclusiones preliminares.</li>
-        <li>Referencias.</li>
-      </ul>
-      <p><strong>Portafolio:</strong></p>
-      <ul>
-        <li>Memoria: Las 8 competencias ya redactadas.</li>
-        <li>Conclusiones preliminares sobre qué ha aprendido en el grado y puntos a mejorar.</li>
-      </ul>
-      <p><strong>Portafolio digital:</strong></p>
-      <ul>
-        <li>Todas las evidencias subidas y ordenadas.</li>
-        <li>Anexo de ficheros listado en la memoria.</li>
-      </ul>
-    </li>
+        <li>Borrador casi completo del TFG(80 %):</li>
+        <li>Introducción y revisión teórica  cerradas.</li>
+        <li>Apartado de “Resultados” de la revisión completo tras correciones.</li>
+        <li>Al menos un borrador de las conclusiones preliminares.</li>
+        <li>Referencias completas (utilizar FORMATO APA).</li>
+      </li>
     <li>
       <h3>Versión final para corrección (Entrega a la tutora)</h3>
       <p><strong>Fecha de entrega:</strong> 17 de mayo (c.ordinaria)</p>
