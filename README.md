@@ -182,22 +182,22 @@
     </thead>
     <tbody>
       <tr>
-        <td>12 de diciembre</td>
+        <td>9 de diciembre</td>
         <td>Propuesta inicial</td>
         <td>-</td>
       </tr>
       <tr>
-        <td>26 de enero</td>
+        <td>11 de enero</td>
         <td>Borradores iniciales en la plantilla</td>
         <td>-</td>
       </tr>
       <tr>
-        <td>2 de marzo</td>
+        <td>1 de marzo</td>
         <td>Avance 1 (30–40% del trabajo)</td>
         <td>-</td>
       </tr>
       <tr>
-        <td>20 de abril</td>
+        <td>12 de abril</td>
         <td>Avance 2 (versión casi completa)</td>
         <td>-</td>
       </tr>
