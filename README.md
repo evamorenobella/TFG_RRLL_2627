@@ -224,7 +224,9 @@
     </tbody>
   </table>
   <p><em>El TFG debe ser entregado al tutor al menos 15 días antes del plazo de entrega oficial, para asi evaluarlo y realizar la defensa.</em></p>
-  <p><em>Recordad que para llevar un buen seguimiento de vuestro TFG, debéis asistir al menos a 1 tutoría a lo largo del curso</em></p>
+  <p><em>Recordad que para llevar un buen seguimiento de vuestro TFG, debéis asistir al menos a 1 
+    <a href="#tutoría">tutoría</a>
+    a lo largo del curso</em></p>
 </section>
 <section>
   <h2>Materiales de Referencia Utilizados</h2>
@@ -314,7 +316,7 @@
   <p><em>Recordad que para acceder a algunos artículos necesitaréis estar conectadas a Internet desde la facultad o con la VPN de la UGR si estáis en casa</em></p>
   </li>
 </ul>
-  <section>
+  <section id="tutoría">
   <h2>Tutorías</h2>
   <p>
     Las tutorías se realizarán principalmente de manera <strong>online</strong> previa reserva de cita.
