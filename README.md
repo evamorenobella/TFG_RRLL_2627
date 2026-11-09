@@ -159,7 +159,10 @@
 <section>
   <h2>¿Cómo realizo las entregas?</h2>
   <p>
-    Las entregas se realizarán a través de la subida de documentos a las <strong>carpetas compartidas de Google Drive</strong>. Para poder acceder y subir vuestros archivos es imprescindible disponer de una cuenta de correo institucional <strong>@go.ugr.es</strong>.
+    Las entregas se realizarán a través de la subida de documentos a las <strong>carpetas compartidas de Google Drive</strong>. Para poder acceder y subir vuestros archivos es imprescindible disponer de una cuenta de correo institucional 
+    <a href="https://www.ugr.es/info/perfiles/personal/ugr-virtual-personal/cuenta-institucional-go-ugr" target="_blank" rel="noopener noreferrer">
+      <strong>@go.ugr.es</strong>
+    </a>.
   </p>
   <p>
     <strong>Excepción:</strong> Para la <em>versión final para corrección (17 de mayo)</em>, el documento deberá subirse a la carpeta de Drive y, además, <strong>enviarse en formato PDF por correo electrónico a la tutora</strong>.
