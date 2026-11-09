@@ -41,9 +41,9 @@
           Guía de Buenas Prácticas TFG-IA
           </a>
       <p>
-  Asimismo, me debéis entregar la 
+  Asimismo, me debéis entregar el 
   <a href="https://laborales.ugr.es/docencia/trabajo-fin-grado/entrega" target="_blank" rel="noopener noreferrer">
-    declaración de uso de IA
+    informe de uso de IA
   </a>
    junto al TFG.
        <section>
