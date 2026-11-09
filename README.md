@@ -157,7 +157,7 @@
     </li>
     <li>
       <h3>Versión final para corrección (Entrega a la tutora)</h3>
-      <p><strong>Fecha de entrega:</strong> 25 de mayo</p>
+      <p><strong>Fecha de entrega:</strong> 17 de mayo (c.ordinaria)</p>
       <p><strong>Monográfico:</strong></p>
       <p>Versión completa con formato definitivo.</p>
       <p><strong>Portafolio:</strong></p>
@@ -168,7 +168,7 @@
       <h3>Defensa</h3>
       <p><strong>Fecha:</strong> Por determinar (finales de mayo, principios de junio).</p>
       <p>Presentación de 10 minutos y debate/preguntas.</p>
-      <p>Envío de las diapositivas o material de presentación a la tutora con 24 de antelación a la defensa.</p>
+      <p>Envío de las diapositivas o material de presentación a la tutora con 48 de antelación a la defensa.</p>
     </li>
   </ol>
 </section>
