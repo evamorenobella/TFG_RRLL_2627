@@ -84,18 +84,16 @@
   <ol>
     <li>
       <h3>Propuesta inicial</h3>
-      <p><strong>Fecha de entrega:</strong> 12 de diciembre</p>
+      <p><strong>Fecha de entrega:</strong> 30 de noviembre</p>
       <p><strong>Monográfico:</strong></p>
       <p>
-        Entregar 1-2 páginas con: tema elegido y justificación de por qué lo ha elegido (i.e., breve introducción y contextualización del tema), objetivo general y cinco referencias iniciales para trabajar (en formato APA).
+        Entregar 2 páginas (aprox.) con: a) tema elegido y b) justificación de por qué lo ha elegido (i.e., breve introducción y contextualización del tema, incluyendo citas de trabajos), c) objetivo general, d) objetivos específicos y e) cinco referencias iniciales que os han servido para la introducción/contextualización (en formato APA).
       </p>
       <p><strong>Portafolio:</strong></p>
       <p>
-        Entregar 1-2 páginas con: justificación de por qué elige portafolio, autoevaluación muy breve de las 8 competencias, lista provisional de evidencias que cree que puede aportar (trabajos, prácticas, etc.). Creación del Google Site y envío del enlace.
-      </p>
-    </li>
+      </li>
     <li>
-      <h3>Borradores iniciales en la plantilla</h3>
+      <h3>Entrega 1</h3>
       <p><strong>Fecha de entrega:</strong> 26 de enero</p>
       <p><strong>Monográfico:</strong></p>
       <ul>
