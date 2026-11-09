@@ -205,17 +205,17 @@
         <td>-</td>
       </tr>
       <tr>
-        <td>25 de mayo</td>
+        <td>23 de mayo</td>
         <td>Versión final para corrección (Entrega a la tutora)</td>
         <td>-</td>
       </tr>
       <tr>
-        <td>9 de junio de 2026</td>
+        <td>7 de junio de 2026</td>
         <td>Entrega calificación del tutor y documentación del TFG</td>
         <td>Ordinaria</td>
       </tr>
       <tr>
-        <td>3 de julio de 2026</td>
+        <td>1 de julio de 2026</td>
         <td>Entrega calificación del tutor y documentación del TFG</td>
         <td>Extraordinaria</td>
       </tr>
