@@ -63,16 +63,18 @@
         </a>
       </p>
       <section>
-      <h2>Plazos de entrega</h2>
+      <h2>Plazos de entrega de calificaciones y documentación</h2>
       <ul>
         <li>
           <strong>Convocatoria ordinaria.</strong>
           La fecha límite para el envío de calificación por parte del tutor y documentación del TFG por parte del estudiante es el 4 de junio de 2027. La defensa ante el Tribunal de MH o reclamaciones es el 24 de junio de 2027. Toda la información necesaria para la defensa del TFG se comunicará a través de Prado con suficiente antelación. Los alumnos que deseen un tribunal de reclamaciones deben solicitarlo por correo electrónico dentro de los tres días siguientes a la fecha límite (mduranb@ugr.es).
+          La versión final del TFG para su corrección se deberá enviar el día 17 de mayo.
           (<a href="mailto:mdhuete@ugr.es">mdhuete@ugr.es</a>).
         </li>
         <li>
           <strong>Convocatoria extraordinaria.</strong>
           La fecha límite para el envío de calificación por parte del tutor y documentación del TFG por parte del estudiante es el 4 de julio de 2027. La defensa ante el Tribunal de MH o reclamaciones es el 24 de julio de 2027. Toda la información necesaria para la defensa del TFG se comunicará a través de Prado con suficiente antelación. Los alumnos que deseen un tribunal de reclamaciones deben solicitarlo por correo electrónico dentro de los tres días siguientes a la fecha límite (mduranb@ugr.es).
+           La versión final del TFG para su corrección se deberá enviar el día 14 de junio
           (<a href="mailto:mdhuete@ugr.es">mdhuete@ugr.es</a>).
         </li>
       </ul>
