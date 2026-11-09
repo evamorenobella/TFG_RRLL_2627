@@ -93,7 +93,7 @@
           <p>
           PARTE 2 CRITERIOS DE ELEGIBILIDAD PARA LOS ARTÍCULOS A ANALIZAR: a) criterios de inclusión y exclusión, b) seleccionar las <a href="https://biblioteca.ugr.es/biblioteca-electronica/bases-datos" target="_blank" rel="noopener noreferrer">
                 bases de datos
-              </a>principales, y c) la ecuación de búsqueda utilizando los operadores booleanos).
+              </a>principales, y c) la ecuación de búsqueda utilizando los operadores booleanos.
       </p>
       </li>
     <li>
@@ -102,19 +102,13 @@
       <p><strong>Monográfico:</strong></p>
       <ul>
             <li>
-              Borrador de la introducción y objetivos, así como del apartado de metodología
+              Entregar borrador de la introducción y objetivos, así como del apartado de metodología
               (Estrategia de búsqueda bibliográfica,
               <a href="https://biblioteca.ugr.es/biblioteca-electronica/bases-datos" target="_blank" rel="noopener noreferrer">
                 bases de datos
-              </a>, palabras clave), siguiendo la plantilla estándar.
+              </a>, palabras clave, operadores booleanos), siguiendo la plantilla estándar.
             </li>
-        <li>Lista/tablas con la literatura revisada hasta ahora (autor, año, tipo de estudio, muestra, resultados clave).</li>
-      </ul>
-      <p><strong>Portafolio:</strong></p>
-      <ul>
-        <li>Tabla donde se indique, para cada competencia, qué evidencias definitivas se utilizarán (mínimo 1 por competencia).</li>
-        <li>Breve descripción de cada una de ellas y por qué las ha elegido.</li>
-      </ul>
+        <li>Realizar la búsqueda de artículos: aplicar los criterios seleccionados y operadores booleanos/palabras clave, obtener los resultados. Tras esto, filtrar artículos en función de si se ajustan o no al objetivo del TFG. Para ello se debe realizar un filtrado de artículos leyendo su título y su resumen. Si se ajusta a nuestro objetivo se quedan, si no se descartan.
     </li>
     <li>
       <h3>Avance 1 (aprox. 30-40% del trabajo)</h3>
