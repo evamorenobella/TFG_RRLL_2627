@@ -32,7 +32,7 @@
       <section>
       <h2>Uso de IA</h2>
       <p>
-        Tened cuidado con el uso de IA en vuestros trabajos; debe ser una herramienta y que vuestro tutor conozca qué partes de vuestro TFG están apoyados con IA. En
+        Tened cuidado con el uso de IA en vuestros trabajos; debe ser una herramienta y que vuestro/a tutor/a conozca qué partes de vuestro TFG están apoyados con IA. En
         <a href="https://laborales.ugr.es/docencia/trabajo-fin-grado/recursos-ayuda" target="_blank" rel="noopener noreferrer">
           https://laborales.ugr.es/docencia/trabajo-fin-grado/recursos-ayuda
         </a>
